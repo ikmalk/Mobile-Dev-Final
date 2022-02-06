@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="@dimen/_12sdp"
+    android:layout_marginTop="@dimen/_12sdp"
+    android:background="@drawable/note_background"
+    android:orientation="vertical"
+    android:id="@+id/noteLayout"
+
+    >
+
+
+        <LinearLayout
+            android:id="@+id/noteLayout2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="6"
+            >
+            <TextView
+                android:id="@+id/noteTextTitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/_6sdp"
+                android:layout_marginTop="@dimen/_8ssp"
+                android:layout_marginEnd="@dimen/_6sdp"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_13ssp"
+                android:textStyle="bold"
+                android:layout_weight="5"
+                />
+            <ImageView
+                android:id="@+id/note_delete"
+                android:layout_marginTop="@dimen/_9sdp"
+                android:layout_marginEnd="@dimen/_4sdp"
+                android:layout_width="@dimen/_30sdp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_trash"
+                android:layout_weight="1"
+                />
+
+        </LinearLayout>
+
+
+        <TextView
+            android:id="@+id/noteTextOverview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_6sdp"
+            android:layout_marginTop="@dimen/_6ssp"
+            android:layout_marginEnd="@dimen/_6sdp"
+            android:textColor="@color/black"
+            android:textSize="@dimen/_12sdp"
+            />
+
+        <TextView
+            android:id="@+id/noteDate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_6sdp"
+            android:layout_marginTop="@dimen/_6ssp"
+            android:layout_marginEnd="@dimen/_6sdp"
+            android:textColor="@color/black"
+            android:textSize="@dimen/_8ssp"
+            />
+
+
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_animal_lover">
+
+    <fragment
+        android:id="@+id/DestSetting"
+        android:name="com.example.fragments.SettingFragments"
+        android:label="fragment_setting_fragments"
+        tools:layout="@layout/activity_setting" />
+    <fragment
+        android:id="@+id/DestDeletedNotes"
+        android:name="com.example.fragments.DeletedNotesFragments"
+        android:label="fragment_deleted_notes"
+        tools:layout="@layout/fragment_deleted_notes" />
+</navigation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="text_font_size_small">12</integer>
+    <integer name="title_font_size_small">13</integer>
+
+    <integer name="text_font_size_medium">15</integer>
+    <integer name="title_font_size_medium">16</integer>
+
+    <integer name="text_font_size_large">18</integer>
+    <integer name="title_font_size_large">20</integer>
+
+    <integer-array name="small_text">
+        <item>9</item>
+        <item>10</item>
+    </integer-array>
+
+    <integer-array name="medium_text">
+        <item>12</item>
+        <item>13</item>
+    </integer-array>
+
+    <integer-array name="large_text">
+        <item>14</item>
+        <item>15</item>
+    </integer-array>
+
+</resources>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Mobile-App-Dev-main-c/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Mobile-App-Dev-main-c/app/src/main/res/layout/activity_main.xml" value="0.18489583333333334" />
+        <entry key="..\:/Mobile-App-Dev-main-c/app/src/main/res/layout/activity_note_app.xml" value="0.18489583333333334" />
+        <entry key="..\:/Mobile-App-Dev-main-c/app/src/main/res/layout/activity_sign.xml" value="0.18489583333333334" />
+        <entry key="..\:/Work/android_workspace/Mobile-App-Dev-main-final/app/src/main/res/layout/activity_login.xml" value="0.2046875" />
+        <entry key="..\:/Work/android_workspace/MobileDev/app/src/main/res/drawable/back_border.xml" value="0.18026315789473685" />
+        <entry key="..\:/Work/android_workspace/MobileDev/app/src/main/res/drawable/back_with_border.xml" value="0.18026315789473685" />
+        <entry key="..\:/Work/android_workspace/MobileDev/app/src/main/res/drawable/background_add_button.xml" value="0.16666666666666666" />
+        <entry key="..\:/Work/android_workspace/MobileDev/app/src/main/res/drawable/background_header.xml" value="0.21447368421052632" />
+        <entry key="..\:/Work/android_workspace/MobileDev/app/src/main/res/drawable/customshape.xml" value="0.18026315789473685" />
+        <entry key="..\:/Work/android_workspace/MobileDev/app/src/main/res/drawable/ic_add.xml" value="0.18026315789473685" />
+        <entry key="..\:/Work/android_workspace/MobileDev/app/src/main/res/drawable/ic_add_no_circle.xml" value="0.21447368421052632" />
+        <entry key="..\:/Work/android_workspace/MobileDev/app/src/main/res/drawable/ic_back.xml" value="0.22763157894736843" />
+        <entry key="..\:/Work/android_workspace/MobileDev/app/src/main/res/drawable/ic_baseline_arrow_forward_ios_24.xml" value="0.15789473684210525" />
+        <entry key="..\:/Work/android_workspace/MobileDev/app/src/main/res/drawable/ic_color_circle.xml" value="0.18026315789473685" />
+        <entry key="..\:/Work/android_workspace/MobileDev/app/src/main/res/drawable/ic_font.xml" value="0.18026315789473685" />
+        <entry key="..\:/Work/android_workspace/MobileDev/app/src/main/res/drawable/ic_image.xml" value="0.18026315789473685" />
+        <entry key="..\:/Work/android_workspace/MobileDev/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22763157894736843" />
+        <entry key="..\:/Work/android_workspace/MobileDev/app/src/main/res/drawable/note_background.xml" value="0.1631578947368421" />
+        <entry key="..\:/Work/android_workspace/MobileDev/app/src/main/res/layout/activity_deleted_notes.xml" value="0.21403508771929824" />
+        <entry key="..\:/Work/android_workspace/MobileDev/app/src/main/res/layout/activity_login.xml" value="0.21403508771929824" />
+        <entry key="..\:/Work/android_workspace/MobileDev/app/src/main/res/layout/activity_main.xml" value="0.21403508771929824" />
+        <entry key="..\:/Work/android_workspace/MobileDev/app/src/main/res/layout/activity_note_app.xml" value="0.31798245614035087" />
+        <entry key="..\:/Work/android_workspace/MobileDev/app/src/main/res/layout/activity_setting.xml" value="0.4" />
+        <entry key="..\:/Work/android_workspace/MobileDev/app/src/main/res/layout/activity_sign.xml" value="0.20087719298245615" />
+        <entry key="..\:/Work/android_workspace/MobileDev/app/src/main/res/layout/delete_note_view.xml" value="0.10219298245614035" />
+        <entry key="..\:/Work/android_workspace/MobileDev/app/src/main/res/layout/deleted_notes_layout.xml" value="0.21403508771929824" />
+        <entry key="..\:/Work/android_workspace/MobileDev/app/src/main/res/layout/fragment_deleted_notes.xml" value="0.1649122807017544" />
+        <entry key="..\:/Work/android_workspace/MobileDev/app/src/main/res/layout/fragment_setting_fragments.xml" value="0.21403508771929824" />
+        <entry key="..\:/Work/android_workspace/MobileDev/app/src/main/res/layout/layout_delete_note.xml" value="0.21403508771929824" />
+        <entry key="..\:/Work/android_workspace/MobileDev/app/src/main/res/layout/note_view.xml" value="0.264" />
+        <entry key="..\:/Work/android_workspace/MobileDev/app/src/main/res/layout/screen_color_layout.xml" value="0.21403508771929824" />
+        <entry key="..\:/Work/android_workspace/MobileDev/app/src/main/res/layout/spinner_layout.xml" value="0.21403508771929824" />
+        <entry key="..\:/Work/android_workspace/MobileDev/app/src/main/res/layout/text_color_layout.xml" value="0.21403508771929824" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_14_PREVIEW" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.21403508771929824" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
